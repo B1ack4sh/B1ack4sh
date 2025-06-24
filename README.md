@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Black Ash</h1>
-<h3 align="center">Cybersecurity Researcher</h3>
+<h3 align="center">💻 Cybersecurity Researcher 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b1ack4sh&label=Profile%20views&color=0e75b6&style=flat" alt="b1ack4sh" /> </p>
 
