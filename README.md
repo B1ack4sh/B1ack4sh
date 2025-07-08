@@ -1,6 +1,6 @@
 # 👾 Who am I ???
 
-Hello friend , My name is Ash , I'm a Cybersecurity professional with a strong focus on offensive security, penetration testing, and hardware hacking.
+Hello friend , My name is Ash , I'm a Cybersecurity researcher with a strong focus on offensive security, penetration testing, and hardware hacking.
 
 ---
 
