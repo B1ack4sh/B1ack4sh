@@ -1,15 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F70000&width=435&lines=Recon+is+power!;Data+is+leverage!!;Silence+is+cover!!!)](https://git.io/typing-svg)
-
-
----
-
-# 👾 Who am I ???
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=20&pause=30&color=A138FF&width=435&lines=%F0%9F%91%BE+Who+am+I+%3F%3F%3F)](https://git.io/typing-svg)
 
 My name is Ash , I'm a Cybersecurity researcher with a strong focus on offensive security, penetration testing, and hardware hacking.
 
 ---
 
-# 👨‍💻 About Me
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=20&pause=30&color=56FF55&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me)](https://git.io/typing-svg)
 
 - Passionate about cybersecurity and ethical hacking  
 - Experienced in vulnerability assessment, privilege escalation, and exploit development  
@@ -19,7 +14,7 @@ My name is Ash , I'm a Cybersecurity researcher with a strong focus on offensive
 
 ---
 
-# 🛠️ Skills & Tools
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=60&pause=10&color=FFB292&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Skills+%26+Tools)](https://git.io/typing-svg)
 
 - **Languages**: Python, Bash, SQL  
 - **Tools**: Burp Suite, Metasploit, Nmap, SQLMap, Hydra, Wireshark  
