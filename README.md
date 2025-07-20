@@ -1,3 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F70000&width=435&lines=Recon+is+power!;Data+is+leverage!!;Silence+is+cover!!!)](https://git.io/typing-svg)
+
+
+---
+
 # 👾 Who am I ???
 
 My name is Ash , I'm a Cybersecurity researcher with a strong focus on offensive security, penetration testing, and hardware hacking.
